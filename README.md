@@ -10,25 +10,26 @@
 - Excel Automation (SUMIFS, XLOOKUP, Data Validation)
 - Pivot Tables, Conditional Formatting
 - Financial Reporting Standards (GAAP/IFRS logic)
-- ## 📸 Screenshots
+  ## 📸 Screenshots
 
 ### 📗 General Ledger  
 Automated ledger generated from journal entries using Excel formulas.
 
-![General Ledger](assets/ledger.Png)
+![General Ledger](Assets/Assets/Ledger.Png)
 
 ---
 
 ### 🧮 Chart of Accounts  
 All accounts categorized and dynamically linked across the system.
 
-![Charts Of Accounts](assets/charts_Of_accounts.png)
+![Chart of Accounts](Assets/Assets/Charts_Of_Accounts.png)
 
 ---
 
 ### 📊 Summary Reports  
 Includes Profit & Loss, Trial Balance, and Balance Sheet — auto-calculated.
 
-![Summary Reports](assets/Summary_reports.png)
+![Summary Reports](Assets/Assets/Summary_reports.png)
+
 
 
