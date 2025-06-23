@@ -27,7 +27,7 @@ All accounts categorized and dynamically linked across the system.
 ---
 
 ### 📊 Summary Reports  
-Includes Profit & Loss, Trial Balance, and Balance Sheet — auto-calculated.
+Automated Bookkeeping template Summary reports
 
 ![Summary Reports](Assets/Assets/Summary_reports.png)
 
